@@ -1,4 +1,4 @@
-# Rest API for music information management
+# API Rest for music information management
 
 <p align='center'>
     <a href='https://github.com/marcocabrerahdez/API-Rest/actions/workflows/test.js.yml'>
