@@ -1,8 +1,12 @@
 {
-  "name": "ull-esit-inf-dsi-21-22-prct12-music-api-grupo_r",
+  "name": "apirest",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
   "scripts": {
     "coverage": "nyc npm test && nyc report --reporter=lcov",
     "doc": "typedoc",
@@ -13,18 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct12-music-api-grupo_r.git"
-  },
-  "engines": {
-    "node": "16.x"
+    "url": "git+https://github.com/marcocabrerahdez/APIRest.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct12-music-api-grupo_r/issues"
+    "url": "https://github.com/marcocabrerahdez/APIRest/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct12-music-api-grupo_r#readme",
+  "homepage": "https://github.com/marcocabrerahdez/APIRest#readme",
   "devDependencies": {
     "@babel/register": "^7.17.7",
     "@types/chai": "^4.3.1",
