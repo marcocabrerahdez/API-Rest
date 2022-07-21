@@ -1,16 +1,4 @@
-# Práctica 12 - API Node/Express de gestión de información musical
-
-```text
-AUTHORS:     Marco Antonio Cabrera Hernández
-             Mario Hernandez Garcia
-             Jonay Mendez Marquez
-DATE:        22-05-2022
-EMAIL:       alu0101327372@ull.edu.es
-             alu0101346908@ull.edu.es
-             alu0101347141@ull.edu.es
-UNIVERSITY:  Universidad de La Laguna
-COURSE:      Desarrollo de Sistemas Informáticos
-```
+# Rest API for music information management
 
 <p align='center'>
     <a href='https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct12-music-api-grupo_r/actions/workflows/test.js.yml'>
